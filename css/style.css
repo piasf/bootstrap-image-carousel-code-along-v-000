@@ -1,0 +1,11 @@
+img, video, audio, iframe, table, form {
+  width: 100%; /* IE */
+  max-width: 100%; /* FF, Safari, Chrome */
+}
+#carousel-example-generic .item img {
+  height:auto;
+}
+
+.carousel-caption p {
+  display: none;
+}
